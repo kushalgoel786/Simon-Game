@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container-one {
+  margin-right: 1rem;
+}
+
+.container-two {
+  margin-left: 1rem;
+}
+
+.button {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin-bottom: 2rem;
+}
+
+#red {
+  background-color: #ef6262;
+}
+
+#green {
+  background-color: #22a699;
+}
+
+#yellow {
+  background-color: #f3aa60;
+}
+
+#blue {
+  background-color: #1d5b79;
+}
+
+.flash {
+  background-color: white !important;
+}
